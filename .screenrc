@@ -1,3 +1,6 @@
+# hardstatus = navigation bar @ bottom
+hardstatus alwayslastline "%H %-Lw%{= BW}%50>%n%f* %t%{-}%+Lw%<"  
+
 # Autoload three screen tabs for vim, bash, and a node server
 screen -t vim 0
 screen -t bash 1
