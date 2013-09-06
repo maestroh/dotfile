@@ -1,0 +1,5 @@
+# Autoload three screen tabs for vim, bash, and a node server
+screen -t vim 0
+screen -t bash 1
+screen -t node 2
+
