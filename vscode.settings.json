@@ -1,7 +1,11 @@
 // Place your settings in this file to overwrite the default settings
 { 
-    "typescript.tsdk": "node_modules\\typescript\\lib",
-    "window.zoomLevel": 0,
+    // Place your settings in this file to overwrite the default settings
+{
+    "files.eol": "\n",
+    "javascript.validate.enable": false,
+    // "typescript.tsdk": "node_modules\\typescript\\lib",
+    "window.zoomLevel": 0.2,
     "editor.tabSize": 2,
     "editor.autoIndent": true,
     "editor.minimap.enabled": false,
