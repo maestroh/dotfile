@@ -1,7 +1,5 @@
 // Place your settings in this file to overwrite the default settings
 { 
-    // Place your settings in this file to overwrite the default settings
-{
     "files.eol": "\n",
     "javascript.validate.enable": false,
     // "typescript.tsdk": "node_modules\\typescript\\lib",
